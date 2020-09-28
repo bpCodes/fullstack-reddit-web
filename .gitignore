@@ -4,10 +4,11 @@
 /node_modules
 /.pnp
 .pnp.js
-
+.idea
 # testing
 /coverage
-
+codegen.yml
+next-env.d.ts
 # next.js
 /.next/
 /out/
